@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: zenardi/python-app
   pullPolicy: IfNotPresent
-  tag: 1e0f0b
+  tag: 737c29
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
