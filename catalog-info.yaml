@@ -7,7 +7,8 @@ metadata:
     github.com/project-slug: zenardi/python-app
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: service
+  type: website
   owner: group:development
   lifecycle: experimental
+
 
